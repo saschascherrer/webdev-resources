@@ -23,9 +23,9 @@ List of interesting, useful and/or promising resources related to webdevelopment
   the-data-is-your-api-philosophy. Data is presented as large JSON resource. 
   
 ## Web Frontend Frameworks
-* [React]() by [Facebook](https://code.facebook.com/)  
-* [Relay]() by [Facebook](https://code.facebook.com/)  
-* [Angular]() by [Google]()  
+* [React](https://facebook.github.io/react/) by [Facebook](https://code.facebook.com/)  
+* [Relay](https://facebook.github.io/relay/) by [Facebook](https://code.facebook.com/)  
+* [Angular](https://angular.io/) by [Google](https://developers.google.com/)  
   
   
 ## NoSQL Databases
@@ -38,22 +38,28 @@ List of interesting, useful and/or promising resources related to webdevelopment
  
 
 ## Development Tools
-* WebPack
-* Flow by Facebook
-* Docker
+* [WebPack](https://webpack.js.org/)  
+  Bundle for JavaScipt, CSS and other website-assets
+* [Flow](https://flowtype.org/) by [Facebook](https://code.facebook.com/)
+  "A static type checker for JavaScript"
+* [Docker](https://www.docker.com/)  
+  Software container
 
 ### Testing
-* Selenium
+* [Selenium](http://www.seleniumhq.org/)  
+  Browser automation tool that is intended for but not limited to automated testing of web-frontends.
 * [Mocha](http://mochajs.org/)  
   Test Framework running on NodeJS and in the broser that supports asynchronous testing.
 * [Chai](http://chaijs.com/)  
   BDD / TDD assertion library for NodeJS
 
 ### Editors
-* Atom by GitHub  
-* Nuclide by Facebook  
+* [Atom](https://atom.io/) by GitHub  
+  Hackable text editor based on webtechnologies but running as desktop application
+* [Nuclide](https://nuclide.io/) by Facebook  
   based on Atom
-* WebStorm by JetBrains (Commercial) 
+* [WebStorm](https://www.jetbrains.com/webstorm/) by [JetBrains](https://www.jetbrains.com/) (Commercial)  
+  Integrated development Environment made by the company behind IntelliJ
 
 ## To be looked at later
 * [Browserify](http://browserify.org/)  
