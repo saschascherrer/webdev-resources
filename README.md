@@ -8,6 +8,11 @@ List of interesting, useful and/or promising resources related to webdevelopment
   ``data-sync``, ``request-response`` or ``publish-subscribe`` philosophy
 * [Horizon.io](http://horizon.io/) by [RethinkDB](https://rethinkdb.com/)  
   "The realtime JavaScript backend" to "Build powerful web and mobile apps that scale" 
+* [socketio/socket.io-client](https://github.com/socketio/socket.io-client)  
+  "Realtime application framework (client)" by Socket.io
+* [FeatherJs](http://feathersjs.com/)  
+  "An open source REST and realtime API layer for modern applications."
+  
   
   
 ## Data APIs
