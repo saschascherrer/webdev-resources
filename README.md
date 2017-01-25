@@ -40,6 +40,8 @@ List of interesting, useful and/or promising resources related to webdevelopment
 * [RethinkDB](https://rethinkdb.com/)  
   "The open-source database for the realtime web"  
   Not-only-SQL Database for storing JSON. Supports subscribing to changes in the database
+* [NeDB](https://github.com/louischatriot/nedb)  
+  "Embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency. API is a subset of MongoDB's and it's plenty fast."
  
 
 ## Development Tools
